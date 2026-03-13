@@ -121,7 +121,7 @@ Authorization: Bearer <token>
 
 ## Collection Postman
 
-O repositório acompanha a collection e o environment do Postman para facilitar os testes:
+O repositório acompanha a collection e o environment do Postman para facilitar os testes. Os arquivos estão na pasta `postman/` na raiz do repositório.:
 
 - `DSCommerceDesafio_postman_collection.json`
 - `DSCommerce_env_postman_environment.json`
