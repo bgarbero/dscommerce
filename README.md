@@ -308,6 +308,12 @@ Credenciais de teste disponíveis na coleção Postman em `/postman`.
 
 ---
 
+## Licença
+
+Distribuído sob a licença MIT. Veja o arquivo [LICENSE](LICENSE).
+
+---
+
 ## Autor
 
 **Bruno Garbero**
