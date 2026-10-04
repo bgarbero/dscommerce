@@ -129,7 +129,7 @@ OrderStatus: WAITING_PAYMENT | PAID | SHIPPED | DELIVERED | CANCELED
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/seu-usuario/dscommerce.git
+git clone https://github.com/bgarbero/dscommerce.git
 
 # Entrar na pasta do projeto
 cd dscommerce
@@ -308,32 +308,13 @@ Credenciais de teste disponíveis na coleção Postman em `/postman`.
 
 ---
 
-## Licença
-
-Este repositório é para estudos e está disponível sob uma licença permissiva. Abaixo o texto da MIT License (cópia livre). Sinta-se à vontade para usar e modificar o código.
-
-Licença MIT
-
-Copyright (c) 2026 Bruno Garbero
-
-É concedida permissão, gratuitamente, a qualquer pessoa que obtenha uma cópia deste software e arquivos de documentação associados (o "Software"), para lidar com o Software sem restrições, incluindo, sem limitação, os direitos de usar, copiar, modificar, fundir, publicar, distribuir, sublicenciar e/ou vender cópias do Software, e para permitir que as pessoas a quem o Software é fornecido o façam, sujeitas às seguintes condições:
-
-O aviso de direitos autorais acima e este aviso de permissão devem ser incluídos em todas as cópias ou partes substanciais do Software.
-
-O SOFTWARE É FORNECIDO "NO ESTADO EM QUE SE ENCONTRA", SEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU IMPLÍCITA, INCLUINDO, MAS NÃO SE LIMITANDO ÀS GARANTIAS DE COMERCIALIZAÇÃO, ADEQUAÇÃO A UM FIM ESPECÍFICO E NÃO VIOLAÇÃO. EM NENHUMA HIPÓTESE OS AUTORES OU DETENTORES DOS DIREITOS AUTORAIS SERÃO RESPONSÁVEIS POR QUAISQUER REIVINDICAÇÕES, DANOS OU OUTRAS RESPONSABILIDADES, SEJA EM AÇÃO CONTRATUAL, EXTRACONTRATUAL OU DE OUTRA NATUREZA, DECORRENTES DE, OU RELACIONADAS COM O SOFTWARE OU O USO OU OUTRAS NEGOCIAÇÕES COM O SOFTWARE.
-
----
-
 ## Autor
 
-**Bruno**  
-Estudante de Engenharia de Software — UNIFAA  
-Técnico de Suporte em TI | Desenvolvedor Backend Java (em formação)
+**Bruno Garbero**
+Fullstack Developer Jr · Java · Spring Boot · React
+[LinkedIn](https://www.linkedin.com/in/bruno-garbero/) · [GitHub](https://github.com/bgarbero)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfólio-black?style=flat-square&logo=github)](https://github.com/seu-usuario)
-[![Gmail](https://img.shields.io/badge/Email-Contato-red?style=flat-square&logo=gmail)](mailto:seuemail@gmail.com)
-
+Projeto desenvolvido durante o curso Java Spring Professional da DevSuperior, com o Prof. Nélio Alves.
 ---
 
 > Projeto desenvolvido durante o curso **Java Spring Professional** — [DevSuperior](https://devsuperior.com.br/) · Prof. Nélio Alves
